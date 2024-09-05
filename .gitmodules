@@ -1,0 +1,3 @@
+[submodule "testmodule"]
+	path = testmodule
+	url = git@github.com:HostCreators/testmodule.git
